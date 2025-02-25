@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: tranlequocthong313/blog-post-workflow@main
         with:
           feed_list: 'https://viblo.asia/rss/authors/tranlequocthong313.rss'
