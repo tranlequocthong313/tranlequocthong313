@@ -17,6 +17,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Bạn có đang hiểu đúng về Prototype trong Javascript?](https://viblo.asia/p/ban-co-dang-hieu-dung-ve-prototype-trong-javascript-m2vJPr6aVeK)
+- [Sự thật về &amp;quot;hoisting&amp;quot; trong Javascript mà có thể bạn chưa biết](https://viblo.asia/p/su-that-ve-hoisting-trong-javascript-ma-co-the-ban-chua-biet-WR5JRAM74Gv)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
