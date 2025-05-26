@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tranlequocthong313@gmail.com**
 
-- 📄 Know about my experiences [https://tranlequocthong313.github.io/portfolio/resume.pdf](https://tranlequocthong313.github.io/portfolio/resume.pdf)
+- 📄 Know about my experiences [CV](https://tinyurl.com/yu99e549)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
