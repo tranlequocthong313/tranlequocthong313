@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tranlequocthong313@gmail.com**
 
-- 📄 Know about my experiences [CV](https://tinyurl.com/yu99e549)
+- 📄 Know about my experiences [CV](https://tinyurl.com/mr554hz5)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
