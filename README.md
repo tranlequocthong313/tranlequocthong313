@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://tranlequocthong313.github.io/portfolio/)
 
-- 📝 I regularly write articles on [Articles](https://viblo.asia/u/tranlequocthong313)
+- 📝 I regularly write articles on [Viblo](https://viblo.asia/u/tranlequocthong313)
 
 - 💬 Ask me about **Javascript**
 
