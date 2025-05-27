@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tranlequocthong313&label=Profile%20views&color=0e75b6&style=flat" alt="tranlequocthong313" /> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 👨‍💻 All of my projects are available at [Portfolio](https://tranlequocthong313.github.io/portfolio/)
 
-- 👨‍💻 All of my projects are available at [https://tranlequocthong313.github.io/portfolio/](https://tranlequocthong313.github.io/portfolio/)
-
-- 📝 I regularly write articles on [https://viblo.asia/u/tranlequocthong313](https://viblo.asia/u/tranlequocthong313)
+- 📝 I regularly write articles on [Articles](https://viblo.asia/u/tranlequocthong313)
 
 - 💬 Ask me about **Javascript**
 
