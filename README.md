@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tranlequocthong313@gmail.com**
 
-- 📄 Know about my experiences [CV](https://www.canva.com/design/DAGduzvRmlA/BPUYcDjO6KR5YchY2OzbDA/view?utm_content=DAGduzvRmlA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h24ba240fb5)
+- 📄 Know about my experiences [CV](https://tranlequocthong313.github.io/portfolio/resume.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
